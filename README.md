@@ -1,7 +1,7 @@
 # LLM Security and Performance Enhancement Suite
 
 ## Introduction
-The LLM Security and Performance Enhancement Suite is a comprehensive toolkit designed to enhance the security, performance, and fairness of Large Language Models (LLMs). This project focuses on developing robust solutions for real-world machine learning challenges, including veracity checking, prompt injection defense, data drift detection, model performance monitoring, bias detection, and providing explainable AI insights.
+The LLM Security and Performance Enhancement Suite is a toolkit designed to enhance the security, performance, and fairness of Large Language Models (LLMs). This project focuses on developing robust solutions for real-world machine learning challenges, including veracity checking, prompt injection defense, data drift detection, model performance monitoring, bias detection, and providing explainable AI insights.
 
 ## Features
 
