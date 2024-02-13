@@ -30,3 +30,37 @@ To set up the suite, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/yourusername/llm-security-suite.git
+
+2. Navigate to the project directory:
+   ```sh
+   cd llm-security-suite
+   
+3. Install the required dependencies:
+   ```sh
+   pip install -r requirements.txt
+
+## Usage
+
+Start the Flask application:
+   ```sh
+   python app.py
+   ```
+
+
+The application will start on `http://localhost:5000/` by default. Use the provided endpoints to interact with the suite.
+
+## Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
